@@ -76,12 +76,13 @@ p{
 .fourty{
 
     width: 40%;
-    padding: 10% 0% 10% 10%;
+    padding: 10% 0% 5% 5%;
     background-image: url(images/shapes/shape-1.png);
     background-size: 40%;
     background-repeat: no-repeat;
     background-position: left;
-    background-position-x: 40px;
+    background-position-y: 55%;
+
     
 }
 .fourty img{
@@ -92,6 +93,12 @@ p{
     width: 60%;
     padding: 10% 0% 10% 5%;
 }
+
+
+
+
+
+
 footer{
     background-color: black;
     text-align: center;
@@ -99,3 +106,24 @@ footer{
     padding-top: 40px;
     padding-bottom: 30px
 }
+.ppp{
+
+    width: 40%;
+    padding: 10%;
+    background-image: url(images/shapes/shape-1.png);
+     background-position-x: 85%;
+     background-position-y: 100%;
+     background-size: 40%;
+      background-repeat: no-repeat;
+      padding-bottom: 10px;
+    
+    
+}
+.ppp img{
+
+    width: 90%;
+}
+/* background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 40px; */
