@@ -35,8 +35,67 @@ p{
     
 }
 .baton{
-    padding: 2%;
+    padding:10px 20px;
+
+
     background-color: blanchedalmond;
     text-decoration: none;
     font-size: 20px;
+}
+#middle{
+    text-align: center;
+    margin-bottom: 40px;
+}
+#sec21{
+     
+    background-color: linen;
+    padding: 2%;
+    border-radius: 5%;
+}
+#sec22{
+     
+    background-color: lightyellow;
+    padding: 2%;
+    border-radius: 5%;
+}
+#sec23{
+     
+    background-color: honeydew;
+    padding: 2%;
+    border-radius: 5%;
+}
+.tinvag{
+    margin-left: 5%;
+    width: 23%;
+    margin-bottom: 40px;
+
+}
+.tinvag img{
+   width: 40%
+}
+.fourty{
+
+    width: 40%;
+    padding: 10% 0% 10% 10%;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-x: 40px;
+    
+}
+.fourty img{
+
+    width: 90%;
+}
+.sixty{
+    width: 60%;
+    padding: 10% 0% 10% 5%;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 30px
 }
