@@ -123,7 +123,33 @@ footer{
 
     width: 90%;
 }
-/* background-size: 40%;
-    background-repeat: no-repeat;
-    background-position: right;
-    background-position-y: 40px; */
+ #last{
+     text-align: center;
+ }
+
+
+.feedback{
+    padding: 0 10%;
+}
+
+.form-section{
+    margin-top: 40px;
+}
+ .first-row{
+     display: flex;
+     margin-bottom: 20px;
+ }
+ .half{
+     width: 40%;
+     margin-left: 5%;
+     padding: 10px;
+ }
+ .second-row{
+     text-align: center;
+     margin-bottom: 40px;
+ }
+ .textarea{
+     width: calc(90% - 30px);
+     margin: auto;
+     padding: 10px;
+ }
